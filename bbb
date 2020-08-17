@@ -1,0 +1,1 @@
+这是测试push时，本地版本与服务器版本不一致时，出现冲突，需要先执行git pull origin master 将本地库更新到最新版本，然后再push
